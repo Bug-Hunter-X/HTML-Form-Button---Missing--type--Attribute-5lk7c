@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in HTML forms.  A button element within a form is missing the `type` attribute, which can cause unexpected behavior when the form is submitted. The solution provides a corrected version of the HTML.
